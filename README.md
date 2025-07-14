@@ -1,1 +1,1 @@
-# Repositorio de práctica SENA
+# Repositorio de práctica para SENA
